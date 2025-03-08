@@ -23,5 +23,9 @@ Connect your Kindle to your computer.
 Transfer the font file to the fonts folder on your Kindle.
 Load the ePub file:
 
+## If You like to contribute and make it better than this here is the doc file:
+Download the [Doc](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/UthmanicHafs1.Ver16.ttf](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/Uthmani.Script.Quran.doc))
+
+
 > [!IMPORTANT]
 > On your device, choose the installed font from the font settings to ensure the Quran text is displayed correctly.

@@ -24,7 +24,7 @@ Transfer the font file to the fonts folder on your Kindle.
 Load the ePub file:
 
 ## If You like to contribute and make it better than this here is the doc file:
-Download the [Doc](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/UthmanicHafs1.Ver16.ttf](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/Uthmani.Script.Quran.doc))
+Download the [Doc](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/Uthmani.Script.Quran.doc](https://github.com/moshiur-hridoy/Al-Quran-epub/releases/download/v1.1.0-beta/Uthmani.Script.Quran.doc))
 
 
 > [!IMPORTANT]
